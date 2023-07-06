@@ -1,6 +1,6 @@
 # logger with stem in Python
 #### useful hacks 🙂
-Python script that can be used to log connections to from localhost.
+Python script that can be used to log connections from localhost.
 ### Use code with caution!
 This script will create three connections to localhost (127.0.0.1). 
 - The first connection will be to port 8080,
