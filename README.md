@@ -1,4 +1,4 @@
-# Stem local log in python
+# Stem local log (Python)
 #### useful hacks for, pssst!
 Python script that can be used to log connections from localhost.
 ### Use code with caution!
