@@ -23,5 +23,5 @@ if __name__ == "__main__":
 
   connection = circuit.create_connection("127.0.0.1", 8082)
   log_connection(connection)
-  # ad more if you need ;)
+  # ad more if you need for socat or else ;)
   # Use code with caution, please!
