@@ -1,5 +1,5 @@
 # Stem local log (Python)
-#### useful hacks for, pssst!
+#### useful small hacks for, pssst!
 Python script that can be used to log connections from localhost.
 ### Use code with caution!
 This script will create three connections to localhost (127.0.0.1). 
